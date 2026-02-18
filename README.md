@@ -6,15 +6,15 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/g_piyush16) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/guptapiyush16/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:piyushji16@gmail.com) 
 
 # 🛠️ TECHNICAL EXPERTISE
-## 💻 Languages:
+### 💻 Languages:
 Python • C++ • C • SQL • JavaScript • HTML/CSS
-## 🤖 AI / ML:
+### 🤖 AI / ML:
 PyTorch • TensorFlow • Generative AI • Diffusion Models • ControlNet • NLP • LSTM • CNNs • Computer Vision • LightGBM • XGBoost
-## ⚙️ Tools & Practices:
+### ⚙️ Tools & Practices:
 Git • JIRA • Streamlit • RESTful APIs • Agile / Scrum
-## 🧠 Core Concepts:
+### 🧠 Core Concepts:
 Data Structures & Algorithms • Object-Oriented Programming • System Design • ML Pipeline Development
-## 🎙️ Specialization:
+### 🎙️ Specialization:
 Conversational AI (NLP • Generative AI • Speech • Data Science)
 # 🏆 ACHIEVEMENTS
 🧠 Top 2% LeetCode Global (470+ problems) – Elite DSA problem solver
