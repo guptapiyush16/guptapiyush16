@@ -17,11 +17,11 @@ Data Structures & Algorithms • Object-Oriented Programming • System Design �
 ### 🎙️ Specialization:
 Conversational AI (NLP • Generative AI • Speech • Data Science)
 # 🏆 ACHIEVEMENTS
-🧠 Top 2% LeetCode Global (470+ problems) – Elite DSA problem solver
-🔬 Samsung PRISM Research Intern – Engineered ControlNet-based diffusion models for object-agnostic 2D image generation
-🚀  Adobe Tech Innovation Challenge 2025 Hackathon- Semi-Finalist (Top 2% nationwide); built a GenAI based PDF-to-snippet & podcast-mode system using Azure TTS with an Insight Bulb feature powered by Gemini 2.5 Flash
-🥈 2nd Runner-Up – HackOwasp 7.0 – Built a carbon footprint estimator using OCR + ML
-🌍 Global Volunteer @ AIESEC Vietnam
+🧠 Top 2% LeetCode Global (470+ problems) – Elite DSA problem solver<br>
+🔬 Samsung PRISM Research Intern – Engineered ControlNet-based diffusion models for object-agnostic 2D image generation<br>
+🚀  Adobe Tech Innovation Challenge 2025 Hackathon- Semi-Finalist (Top 2% nationwide); built a GenAI based PDF-to-snippet & podcast-mode system using Azure TTS with an Insight Bulb feature powered by Gemini 2.5 Flash<br>
+🥈 2nd Runner-Up – HackOwasp 7.0 – Built a carbon footprint estimator using OCR + ML<br>
+🌍 Global Volunteer @ AIESEC Vietnam<br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=guptapiyush16&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
